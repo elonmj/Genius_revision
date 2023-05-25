@@ -1,0 +1,50 @@
+Quelle est la capitale du Mexique?;Mexico
+Qui a écrit "Le Portrait de Dorian Gray"?;Oscar Wilde
+Quel est le plus grand lac d'Amérique du Sud?;Le lac Titicaca
+Qui a peint "La Persistance de la mémoire"?;Salvador Dalí
+Quelle est la capitale de l'Inde?;New Delhi
+Qui a écrit "Les Hauts de Hurlevent"?;Emily Brontë
+Quel est le nom du plus grand océan de la Terre?;L'océan Pacifique
+Qui a composé "La Symphonie pastorale"?;Ludwig van Beethoven
+Quelle est la capitale de l'Argentine?;Buenos Aires
+Qui a écrit "Le Vieil Homme et la Mer"?;Ernest Hemingway
+Quel est le nom de la célèbre statue au Brésil?;Le Christ Rédempteur
+Qui a peint "La Liberté guidant le peuple"?;Eugène Delacroix
+Quelle est la monnaie de l'Allemagne?;L'euro
+Qui a découvert la gravité quantique?;Stephen Hawking
+Quel est le nom de la célèbre cascade entre le Canada et les États-Unis?;Les Chutes du Niagara
+Qui a écrit "Le Parfum"?;Patrick Süskind
+Quelle est la capitale du Japon?;Tokyo
+Qui a composé "La Cinquième Symphonie"?;Ludwig van Beethoven
+Quel est le pays d'origine du flamenco?;L'Espagne
+Qui a peint "La Guerre des Nymphes"?;Pierre-Auguste Renoir
+Quelle est la capitale de l'Afrique du Sud?;Pretoria
+Qui a écrit "Le Dernier Jour d'un condamné"?;Victor Hugo
+Quel est le nom du plus grand désert de sable du monde?;Le désert du Sahara
+Qui a découvert la radioactivité?;Marie Curie
+Quel est le nom de la célèbre statue à New York?;La Statue de la Liberté
+Qui a écrit "Les Quatre Filles du docteur March"?;Louisa May Alcott
+Quelle est la capitale du Kenya?;Nairobi
+Qui a composé "Le Lac des cygnes"?;Piotr Ilitch Tchaïkovski
+Quel est le pays d'origine du sushi?;Le Japon
+Qui a peint "La Cène"?;Leonardo da Vinci
+Quelle est la monnaie des États-Unis?;Le dollar
+Qui a découvert l'Amérique?;Christophe Colomb
+Quel est le nom du dieu grec de la mer?;Poséidon
+Qui a écrit "Le Comte de Monte-Cristo"?;Alexandre Dumas
+Quelle est la capitale de l'Australie?;Canberra
+Qui a composé "La Flûte enchantée"?;Wolfgang Amadeus Mozart
+Quel est le plus grand pays d'Amérique du Sud?;Le Brésil
+Qui a écrit "Alice au pays des merveilles"?;Lewis Carroll
+Quel est le nom du célèbre volcan en Italie?;Le Vésuve
+Qui a peint "Les Tournesols"?;Vincent van Gogh
+Quelle est la capitale de la Russie?;Moscou
+Qui a écrit "Les Aventures de Tom Sawyer"?;Mark Twain
+Quel est le nom de la célèbre muraille en Chine?;La Grande Muraille
+Qui a peint "La Jeune Fille à la perle"?;Johannes Vermeer
+Quelle est la monnaie du Royaume-Uni?;La livre sterling
+Qui a découvert la loi de la gravité?;Isaac Newton
+Quel est le nom de la célèbre avenue à New York?;La Cinquième Avenue
+Qui a écrit "Les Trois Mousquetaires"?;Alexandre Dumas
+Quel est le pays d'origine de la pizza?;L'Italie
+Qui a composé "La Belle au bois dormant"?;Piotr Ilitch Tchaïkovski
