@@ -1,0 +1,35 @@
+Quelle ville a été choisie comme Capitale européenne de la jeunesse en 2023 ?;Vigo (Espagne).
+Quelle ville a été choisie comme Capitale européenne de la culture en 2019 ?;Matera (Italie).
+Quel pays a remporté la Coupe du Monde de rugby en 1983 ?;Nouvelle-Zélande.
+Quel pays a remporté la Coupe du Monde de cricket en 2015 ?;Australie.
+Qui a remporté le Prix Nobel de la Paix en 2018 ?;Denis Mukwege et Nadia Murad.
+Quel pays a accueilli la Conférence des Nations Unies sur les changements climatiques (COP21) en 2015 ?;France.
+Quel pays a été le premier à envoyer un homme dans l'espace ?;Union soviétique.
+Quelle ville a été choisie comme Capitale européenne du sport en 2023 ?;Katowice (Pologne).
+Quel pays a accueilli la Coupe du Monde de la FIFA en 2018 ?;Russie.
+Quelle entreprise a atteint une capitalisation boursière de 1 trillion de dollars en 2020 ?;Apple.
+Quelle entreprise est à l'origine du développement du vaccin contre la polio ?;Jonas Salk.
+Qui a remporté le Prix Nobel de la Littérature en 2016 ?;Bob Dylan.
+Quelle ville a été choisie comme Capitale européenne de la culture en 2022 ?;Kaunas (Lituanie).
+Quelle organisation internationale s'occupe de la promotion de la paix et de la sécurité mondiale ?;Organisation des Nations Unies (ONU).
+Quelle compagnie aérienne a réalisé le premier vol commercial sans escale autour du monde ?;Solar Impulse.
+Quelle entreprise a développé la première voiture électrique grand public ?;Tesla.
+Quelle ville a accueilli les Jeux Olympiques d'hiver en 2018 ?;Pyeongchang (Corée du Sud).
+Qui a remporté la Coupe du Monde de football féminin en 2019 ?;États-Unis.
+Quel pays a remporté la Coupe du Monde de cricket en 2007 ?;Australie.
+Quelle ville a été choisie comme Capitale européenne de la jeunesse en 2022 ?;Klaipėda (Lituanie).
+Quelle entreprise est à l'origine du développement du premier avion commercial à réaction ?;de Havilland Comet.
+Quelle ville a accueilli les Jeux Olympiques d'été en 2004 ?;Athènes (Grèce).
+Quel pays a remporté la Coupe du Monde de cricket en 2011 ?;Inde.
+Quel pays a été le premier à légaliser la consommation récréative du cannabis ?;Uruguay.
+Quelle entreprise est à l'origine du développement de la première voiture à essence ?;Karl Benz.
+Qui a remporté le Tour de France en 2017 ?;Chris Froome.
+Quelle entreprise a développé le premier moteur à combustion interne ?;Étienne Lenoir.
+Quel pays a remporté la Coupe d'Afrique des Nations de football en 2017 ?;Cameroun.
+Quel pays a accueilli la Coupe du Monde de la FIFA en 2014 ?;Brésil.
+Quel pays a remporté la Coupe du Monde de rugby en 2011 ?;Nouvelle-Zélande.
+Qui a remporté le Ballon d'Or en 2019 ?;Lionel Messi.
+Quel pays a remporté la Coupe d'Europe de football en 2016 ?;Portugal.
+Quel pays a remporté la Coupe du Monde de rugby en 2003 ?;Angleterre.
+Quelle ville a été choisie comme Capitale européenne de la culture en 2021 ?;Timișoara (Roumanie).
+Quelle ville a été choisie comme Capitale mondiale de l'architecture en 2020 ?;Rio de Janeiro.

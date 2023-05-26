@@ -121,11 +121,14 @@ def main(stdscr):
 
 curses.wrapper(main)
 
-c = 1
-while c:
+while True:
     print("\nEtes vous prêt à affronter vos erreurs,\n Entrez 1 pour oui et 0 si non ")
     c = input('\t: ').strip().lower()
 
     if c == "1" or c == "oui":
         path = "Resign_to_learn.txt"
         curses.wrapper(main)
+    else:
+        print("Merci pour l'utilisation, méditez sur vos nouvelles connaissances\n\n")
+        break
+    
