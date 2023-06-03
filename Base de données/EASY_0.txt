@@ -1,0 +1,150 @@
+Quelle est la capitale de la France?;Paris
+Qui a écrit "Les Misérables"?;Victor Hugo
+Quel est le plus grand océan du monde?;Pacifique
+Quel est le nom du premier homme à avoir marché sur la Lune?;Neil Armstrong
+Dans quel œuvre de Victor Hugo retrouve-t-on les personnages d'Esmeralda et Quasimodo?;Notre Dame de Paris
+Qui est le compositeur des opéras "L'Arlésienne" et "Carmen"?;Georges Bizet
+Quelle est la capitale de l'Espagne?;Madrid
+Qui a écrit le roman "1984"?;George Orwell
+Quel est le plus grand désert du monde?;Le désert de l'Antarctique
+Qui est l'auteur de la pièce de théâtre "Roméo et Juliette"?;William Shakespeare
+Quel est le nom du premier président des États-Unis?;George Washington
+Quelle est la capitale de l'Italie?;Rome
+Qui a peint la Joconde?;Leonardo da Vinci
+Quel est le plus long fleuve du monde?;Le Nil
+Qui a découvert la théorie de la relativité?;Albert Einstein
+Quel est le symbole chimique de l'or?;Au
+Quel est le plus grand lac d'Afrique?;Le lac Victoria
+Qui a écrit "Guerre et Paix"?;Léon Tolstoï
+Quelle est la capitale de l'Allemagne?;Berlin
+Qui a peint "La Guernica"?;Pablo Picasso
+Quel est le nom du navigateur qui a réalisé le premier tour du monde?;Ferdinand Magellan
+Qui a écrit "Don Quichotte"?;Miguel de Cervantes
+Quel est le pays d'origine du kimono?;Le Japon
+Qui a composé la Symphonie n°9, également appelée "Symphonie du Nouveau Monde"?;Antonín Dvořák
+Quelle est la devise de la France?;Liberté, Égalité, Fraternité
+Qui a écrit "Orgueil et Préjugés"?;Jane Austen
+Quel est le plus haut sommet d'Afrique?;Le mont Kilimandjaro
+Qui a peint "Les Nymphéas"?;Claude Monet
+Quelle est la capitale du Canada?;Ottawa
+Qui a écrit "Le Petit Prince"?;Antoine de Saint-Exupéry
+Quel est le nom du plus grand canyon du monde?;Le Grand Canyon
+Qui a composé "La Traviata"?;Giuseppe Verdi
+Quelle est la capitale de la Chine?;Pékin
+Qui a écrit "Crime et Châtiment"?;Fiodor Dostoïevski
+Quel est le plus grand archipel du monde?;L'Indonésie
+Qui a peint "La Cène"?;Leonardo da Vinci
+Quelle est la monnaie des États-Unis?;Le dollar
+Qui a découvert l'Amérique?;Christophe Colomb
+Quel est le nom du dieu grec de la mer?;Poséidon
+Qui a écrit "Le Comte de Monte-Cristo"?;Alexandre Dumas
+Quelle est la capitale de l'Australie?;Canberra
+Qui a composé "La Flûte enchantée"?;Wolfgang Amadeus Mozart
+Quel est le plus grand pays d'Amérique du Sud?;Le Brésil
+Qui a écrit "Alice au pays des merveilles"?;Lewis Carroll
+Quel est le nom du célèbre volcan en Italie?;Le Vésuve
+Qui a peint "Les Tournesols"?;Vincent van Gogh
+Quelle est la capitale du Royaume-Uni?;Londres
+Qui a écrit "Anna Karénine"?;Léon Tolstoï
+Quel est le nom du plus grand lac d'Amérique du Nord?;Le lac Supérieur
+Qui a composé "Les Quatre Saisons"?;Antonio Vivaldi
+Quel est, en superficie, le plus grand pays du monde ?; La Russie
+Quel est le grand fleuve qui coule en Égypte ?; Le Nil
+Comment s'appelle le plus haut sommet du monde ?; Le mont Everest
+Sur quel continent trouve-t-on les Alpes ?; L’Europe
+Quel continent est parfois appelé le Continent noir ?; L’Afrique
+En quelle année se termina la Deuxième Guerre mondiale ?; En 1945
+Quelle est la langue officielle de l’Égypte ?; L'arabe
+Comment appelle-t-on les habitants des États-Unis ?; Les Américains
+Dans quel océan se trouve l’archipel d’Hawaii ?; L’océan Pacifique
+Comment appelle-t-on les habitants de la ville de Hambourg?; Les Hambourgeois (es)
+Dans quel pays se trouve la Maison Blanche ?; Aux États-Unis
+Dans quel pays se trouve la Tour Eiffel ?; En France
+Dans quel pays se trouve la Tour de Pise ?; En Italie
+Dans quel pays se trouve le Big Ben ?; En Angleterre
+Dans quel pays se trouve l'Empire State Building ?; Aux États-Unis
+Dans quel pays se trouve la Statue de la liberté ?; Aux États-Unis
+Dans quel pays se trouve la Basilique St-Pierre ?; En Italie
+Dans quel pays se trouve la Grande Muraille ?; En Chine
+Dans quel pays se trouve le Sphynx ?; En Égypte
+Dans quel pays se trouve le Louvre ?; En France
+Le Canada est un très grand pays; quel rang occupe-t-il dans l’échelle des plus grands pays du monde ?; Le deuxième rang
+Quel pays est surnommé « le pays du Soleil Levant » ?; Le Japon
+Quelle est l’unité monétaire de la France ?; Le franc
+Quelle feuille est représentée au milieu du drapeau canadien ?; La feuille d'érable
+Quel est le plus grand des océans ?; Le Pacifique
+Quel pays Hitler gouvernait-il ?; L’Allemagne
+Quelle ligne imaginaire sépare le monde en deux hémisphères ?; L’équateur
+Quel animal est l’emblème du Canada ?; Le castor
+Quel est le nom de la reine d’Angleterre ?; Élisabeth II
+Quelle est la capitale du Canada ?; Ottawa
+Quelle est la particularité de la tour de Pise ?; Elle est penchée
+Où trouve-t-on les oasis ?; Dans le désert
+Quelle est la devise du Canada ?; D'un océan à l’autre
+Dans quel pays coule la Tamise ?; En Angleterre
+Combien y a-t-il de provinces au Canada ?; 10 provinces
+Quel est le plus grand des Grands Lacs ?; Le lac Supérieur
+Sur quel pays régnaient les Pharaons ?; L’Égypte
+Quel important pays délimite la frontière sud du Canada ?; Les États-Unis
+Dans quelle ville se trouve la Place Ville-Marie ?; Montréal
+Sur quel continent se trouve le Brésil ?; L'Amérique du Sud
+À proximité de quelle ville des États-Unis se trouvent les studios d’Hollywood ?; Los Angeles
+Quel est le plus grand désert du monde ?; Le Sahara
+Quel océan baigne la côte est du Canada ?; L'océan Atlantique
+Dans quel état américain se trouve la ville de Miami ?; La Floride
+Quelles sont les couleurs du drapeau canadien ?; Rouge et blanc
+Comment s'appelle la ligne aérienne la plus importante au Canada ?; Air Canada
+Comment appelle-t-on, plus précisément, les Indiens d’Amérique ?; Les Amérindiens
+Quel pays s'est acquis une réputation mondiale pour la qualité de ses montres ?; La Suisse
+De quel empire Jules César était-il empereur ?; L'empire romain
+Dans quel pays fait-il plus chaud : en Norvège ou en Grèce ?; En Grèce
+Quelle est la capitale du Mexique?;Mexico
+Qui a écrit "Le Portrait de Dorian Gray"?;Oscar Wilde
+Quel est le plus grand lac d'Amérique du Sud?;Le lac Titicaca
+Qui a peint "La Persistance de la mémoire"?;Salvador Dalí
+Quelle est la capitale de l'Inde?;New Delhi
+Qui a écrit "Les Hauts de Hurlevent"?;Emily Brontë
+Quel est le nom du plus grand océan de la Terre?;L'océan Pacifique
+Qui a composé "La Symphonie pastorale"?;Ludwig van Beethoven
+Quelle est la capitale de l'Argentine?;Buenos Aires
+Qui a écrit "Le Vieil Homme et la Mer"?;Ernest Hemingway
+Quel est le nom de la célèbre statue au Brésil?;Le Christ Rédempteur
+Qui a peint "La Liberté guidant le peuple"?;Eugène Delacroix
+Quelle est la monnaie de l'Allemagne?;L'euro
+Qui a découvert la gravité quantique?;Stephen Hawking
+Quel est le nom de la célèbre cascade entre le Canada et les États-Unis?;Les Chutes du Niagara
+Qui a écrit "Le Parfum"?;Patrick Süskind
+Quelle est la capitale du Japon?;Tokyo
+Qui a composé "La Cinquième Symphonie"?;Ludwig van Beethoven
+Quel est le pays d'origine du flamenco?;L'Espagne
+Qui a peint "La Guerre des Nymphes"?;Pierre-Auguste Renoir
+Quelle est la capitale de l'Afrique du Sud?;Pretoria
+Qui a écrit "Le Dernier Jour d'un condamné"?;Victor Hugo
+Quel est le nom du plus grand désert de sable du monde?;Le désert du Sahara
+Qui a découvert la radioactivité?;Marie Curie
+Quel est le nom de la célèbre statue à New York?;La Statue de la Liberté
+Qui a écrit "Les Quatre Filles du docteur March"?;Louisa May Alcott
+Quelle est la capitale du Kenya?;Nairobi
+Qui a composé "Le Lac des cygnes"?;Piotr Ilitch Tchaïkovski
+Quel est le pays d'origine du sushi?;Le Japon
+Qui a peint "La Cène"?;Leonardo da Vinci
+Quelle est la monnaie des États-Unis?;Le dollar
+Qui a découvert l'Amérique?;Christophe Colomb
+Quel est le nom du dieu grec de la mer?;Poséidon
+Qui a écrit "Le Comte de Monte-Cristo"?;Alexandre Dumas
+Quelle est la capitale de l'Australie?;Canberra
+Qui a composé "La Flûte enchantée"?;Wolfgang Amadeus Mozart
+Quel est le plus grand pays d'Amérique du Sud?;Le Brésil
+Qui a écrit "Alice au pays des merveilles"?;Lewis Carroll
+Quel est le nom du célèbre volcan en Italie?;Le Vésuve
+Qui a peint "Les Tournesols"?;Vincent van Gogh
+Quelle est la capitale de la Russie?;Moscou
+Qui a écrit "Les Aventures de Tom Sawyer"?;Mark Twain
+Quel est le nom de la célèbre muraille en Chine?;La Grande Muraille
+Qui a peint "La Jeune Fille à la perle"?;Johannes Vermeer
+Quelle est la monnaie du Royaume-Uni?;La livre sterling
+Qui a découvert la loi de la gravité?;Isaac Newton
+Quel est le nom de la célèbre avenue à New York?;La Cinquième Avenue
+Qui a écrit "Les Trois Mousquetaires"?;Alexandre Dumas
+Quel est le pays d'origine de la pizza?;L'Italie
+Qui a composé "La Belle au bois dormant"?;Piotr Ilitch Tchaïkovski

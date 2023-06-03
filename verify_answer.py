@@ -27,7 +27,7 @@ def normalize_string(s):
         s = first + second
 
     # Liste des articles à exclure en françaisf
-    articles = ['un', 'une', 'le', 'la', 'les', ',', "du", "de", 'en', 'au', 'à','aux']
+    articles = ['un', 'une', 'le', 'la', 'les',"l'", ',', "du", "de", 'en', 'au', 'à','aux']
     # Séparer les mots de la chaîne
     words = s.split()
     # Exclure les articles de la liste des mots

@@ -1,0 +1,150 @@
+Qui a remporté le Tour de France en 2020 ?; Tadej Pogačar
+Quel pays a remporté la Coupe du Monde de football en 2018 ?; France
+Quelle équipe de basketball a remporté le plus de titres de la NBA ?; Boston Celtics
+Qui est le détenteur du record du monde du saut en hauteur masculin ?; Javier Sotomayor
+Quel joueur de tennis a remporté le plus de titres du Grand Chelem en simple chez les hommes ?; Roger Federer
+Quel pays a remporté le plus de médailles d'or aux Jeux olympiques de 2016 ?; États-Unis
+Qui est le meilleur buteur de tous les temps en Ligue des Champions de l'UEFA ?; Cristiano Ronaldo
+Quelle équipe de baseball a remporté le plus de Séries mondiales ?; New York Yankees
+Qui a détenu le record du monde du 100 mètres masculin avant Usain Bolt ?; Asafa Powell
+Quel joueur de basketball a remporté le plus de titres de MVP de la NBA ?; Kareem Abdul-Jabbar
+Quel pays a remporté le plus de titres de la Coupe Davis en tennis ?; États-Unis
+Qui est le seul joueur de cricket à avoir marqué plus de 10 000 runs en une carrière de Test ?; Sachin Tendulkar
+Quel est le record du monde du lancer du javelot masculin ?; Jan Železný
+Quelle joueuse de soccer a remporté le plus de Ballons d'Or féminins ?; Marta
+Quel pays a remporté le plus de médailles d'or aux Jeux olympiques d'hiver de 2018 ?; Norvège
+Qui a remporté le Super Bowl LIV en 2020 ?; Kansas City Chiefs
+Quelle est la plus longue distance parcourue lors d'un marathon ?; 42,195 kilomètres
+Quel joueur de tennis a remporté le plus de titres en simple chez les femmes dans l'ère Open ?; Serena Williams
+Quel pays a remporté le plus de titres de la Coupe du Monde de rugby ?; Nouvelle-Zélande
+Qui est le meilleur buteur de tous les temps en Premier League anglaise ?; Alan Shearer
+Quelle équipe de basketball a remporté le plus de titres de la WNBA ?; Houston Comets
+Qui est le détenteur du record du monde du 400 mètres masculin ?; Wayde van Niekerk
+Quel pays a remporté le plus de médailles d'or aux Jeux olympiques de 2008 ?; Chine
+Qui a détenu le record du monde du 100 mètres masculin avant Usain Bolt ?; Asafa Powell
+Quelle est la plus longue distance parcourue lors d'un match de tennis en simple ?; 6-4, 3-6, 7-6, 6-7, 70-68 (Isner vs Mahut, Wimbledon 2010)
+Quel pays a remporté le plus de titres de la Coupe d'Afrique des Nations en football ?; Égypte
+Qui est le seul athlète à avoir remporté des médailles d'or aux Jeux olympiques d'été et d'hiver dans des sports différents ?; Eddie Eagan
+Quel joueur de basketball a remporté le plus de titres de meilleur marqueur de la NBA ?; Michael Jordan
+Quel pays a remporté le plus de titres de la Coupe du Monde de cricket ?; Australie
+Qui est le détenteur du record du monde du lancer du poids masculin ?; Randy Barnes
+Quelle joueuse de tennis a remporté le plus de titres en Grand Chelem en simple chez les femmes ?; Margaret Court
+Quel pays a remporté le plus de médailles d'or aux Jeux olympiques d'hiver de 2014 ?; Russie
+Qui est le meilleur buteur de tous les temps en équipe nationale de football ?; Ali Daei
+Quelle équipe de football a remporté le plus de titres de la Copa America ?; Uruguay
+Quel joueur de hockey sur glace a remporté le plus de trophées Hart (MVP) de la LNH ?; Wayne Gretzky
+Quel est le record du monde du 1500 mètres féminin ?; Genzebe Dibaba
+Quelle joueuse de soccer a remporté le plus de Coupes du Monde de la FIFA chez les femmes ?; Marta
+Quel pays a remporté le plus de médailles d'or aux Jeux olympiques de Rio 2016 en gymnastique artistique masculine ?; Japon
+Qui a remporté le Championnat du monde de Formule 1 en 2020 ?; Lewis Hamilton
+Quel joueur de basketball a remporté le plus de titres de MVP des Finales de la NBA ?; Michael Jordan
+Quel pays a remporté le plus de titres de la Coupe du Monde de football féminin ?; États-Unis
+Qui est le détenteur du record du monde du saut en longueur masculin ?; Mike Powell
+Quel joueur de tennis a remporté le plus de titres du Grand Chelem en simple chez les femmes ?; Margaret Court
+Quel pays a remporté le plus de médailles d'or aux Jeux olympiques d'hiver de 2018 en patinage de vitesse ?; Pays-Bas
+Qui a remporté le Championnat du monde de snooker en 2020 ?; Ronnie O'Sullivan
+Quelle équipe de football a remporté le plus de championnats de la Premier League anglaise ?; Manchester United
+Qui est le seul athlète à avoir remporté des médailles d'or aux Jeux olympiques d'été et d'hiver dans le même sport ?; Eddie Eagan
+Quel joueur de basketball a remporté le plus de médailles d'or olympiques en basketball masculin ?; Michael Jordan et LeBron James (2 médailles d'or)
+Quel pays a remporté le plus de titres de la Coupe Davis en tennis dans les années 2000 ?; Espagne
+Quel joueur de hockey sur glace a remporté le plus de trophées Conn Smythe (MVP des séries éliminatoires) de la LNH ?; Patrick Roy
+Quel joueur de tennis a remporté le plus de titres en Grand Chelem ?; Roger Federer.
+Quelle équipe a remporté le plus de Coupes du Monde de football ?; Brésil.
+Qui a détenu le record du monde du saut en hauteur avant qu'il ne soit battu par Javier Sotomayor ?; Javier Sotomayor.
+Quelle est la distance totale d'un marathon ?; 42,195 kilomètres.
+Qui est le meilleur buteur de tous les temps en Ligue des Champions ?; Cristiano Ronaldo.
+Quel joueur de basket-ball a remporté le plus de titres de MVP de la NBA ?; Kareem Abdul-Jabbar.
+Quel pays a remporté le plus de médailles d'or aux Jeux olympiques d'été ?; États-Unis.
+Quelle équipe de baseball a remporté le plus de Séries mondiales ?; New York Yankees.
+Qui détient le record du monde du 100 mètres masculin ?; Usain Bolt.
+Quel joueur de hockey sur glace a marqué le plus de buts en une seule saison de la LNH ?; Wayne Gretzky.
+Quelle équipe de rugby a remporté le plus de Coupes du Monde ?; Nouvelle-Zélande.
+Qui a remporté le plus de titres de championnat de Formule 1 ?; Lewis Hamilton.
+Quel pays a remporté le plus de titres de la Coupe Davis en tennis ?; États-Unis.
+Quel golfeur a remporté le plus de tournois majeurs ?; Jack Nicklaus.
+Qui est le joueur de football le plus cher de tous les temps en termes de transfert ?; Neymar.
+Quelle équipe de basketball de la NBA a remporté le plus de championnats ?; Boston Celtics.
+Qui est le seul athlète à avoir remporté des médailles d'or aux Jeux olympiques d'été et d'hiver ?; Eddie Eagan.
+Quelle équipe de football américain a remporté le plus de Super Bowls ?; New England Patriots.
+Qui est le seul boxeur à avoir remporté des titres mondiaux dans six catégories de poids différentes ?; Manny Pacquiao.
+Quelle est la durée réglementaire d'un match de football ?; 90 minutes.
+Qui détient le record du monde du saut à la perche masculin ?; Armand Duplantis.
+Quelle équipe a remporté le plus de championnats de la NBA dans les années 1990 ?; Chicago Bulls.
+Qui a remporté le plus de titres du Grand Chelem en golf ?; Jack Nicklaus.
+Quel joueur de tennis a remporté le plus de titres en simple dans l'ère Open ?; Roger Federer.
+Quelle équipe a remporté le plus de titres de la Ligue des champions de l'UEFA ?; Real Madrid.
+Qui est le joueur le plus âgé à avoir remporté le tournoi de tennis de Wimbledon en simple masculin ?; Arthur Gore.
+Quelle équipe a remporté le plus de titres de la Ligue nationale de hockey (LNH) ?; Montréal Canadiens.
+Qui a détenu le record du monde du 100 mètres féminin avant qu'il ne soit battu par Florence Griffith-Joyner ?; Florence Griffith-Joyner.
+Quel joueur de basket-ball a remporté le plus de titres NBA en tant que joueur ?; Bill Russell.
+Quel pays a remporté le plus de médailles d'or aux Jeux olympiques d'hiver ?; Norvège.
+Quelle équipe de football a remporté le plus de championnats de Premier League ?; Manchester United.
+Qui a détenu le record du monde du saut en longueur masculin avant qu'il ne soit battu par Mike Powell ?; Mike Powell.
+Quel joueur de tennis a remporté le plus de titres en simple en carrière ?; Jimmy Connors.
+Quel pays a remporté le plus de médailles d'or aux Jeux olympiques de Rio 2016 ?; États-Unis.
+Qui est le seul joueur à avoir remporté le Ballon d'Or avec trois clubs différents ?; Cristiano Ronaldo.
+Quelle équipe de baseball a remporté le plus de titres de la Série mondiale dans les années 2000 ?; New York Yankees.
+Qui est le joueur le plus âgé à avoir remporté le tournoi de tennis de l'US Open en simple masculin ?; William Larned.
+Quelle équipe de football a remporté le plus de Coupes du Monde féminines ?; États-Unis.
+Qui détient le record du monde du 200 mètres masculin ?; Usain Bolt.
+Quel joueur de hockey sur glace a le plus de points en carrière dans la LNH ?; Wayne Gretzky.
+Quelle équipe de rugby a remporté le plus de tournois des Six Nations ?; Angleterre.
+Qui a remporté le plus de titres de championnat de MotoGP ?; Giacomo Agostini.
+Quel pays a remporté le plus de titres de la Coupe du Monde de cricket ?; Australie.
+Quel golfeur a remporté le plus de tournois sur le PGA Tour ?; Sam Snead.
+Qui est le joueur de football le plus cher de tous les temps en termes de transfert ?; Kylian Mbappé.
+Quelle équipe de basketball universitaire a remporté le plus de championnats de la NCAA ?; UCLA.
+Qui est le seul athlète à avoir remporté des médailles d'or aux Jeux olympiques dans quatre éditions différentes ?; Carl Lewis.
+Quelle équipe de football américain a remporté le plus de championnats de la NFL ?; Green Bay Packers.
+Qui est le seul boxeur à avoir remporté des médailles d'or dans trois catégories de poids différentes aux Jeux olympiques ?; László Papp.
+Quelle est la durée réglementaire d'un match de basketball NBA ?; 48 minutes.
+Qui détient le record du monde du saut en hauteur féminin ?; Stefka Kostadinova.
+Quelle équipe a remporté le plus de championnats de la NFL dans les années 1960 ?; Green Bay Packers.
+Qui a remporté le plus de titres de la Coupe Stanley dans l'histoire de la LNH ?; Montréal Canadiens.
+Quel joueur de tennis a remporté le plus de titres en simple sur terre battue ?; Rafael Nadal.
+Quelle équipe a remporté le plus de titres de la Ligue Europa de l'UEFA ?; Séville FC.
+Qui est le joueur le plus âgé à avoir remporté le tournoi de tennis de l'Open d'Australie en simple masculin ?; Ken Rosewall.
+Quelle équipe a remporté le plus de titres de la Coupe Grey dans la LCF (Ligue canadienne de football) ?; Toronto Argonauts.
+Qui a détenu le record du monde du 200 mètres féminin avant qu'il ne soit battu par Florence Griffith-Joyner ?; Florence Griffith-Joyner.
+Quel joueur de basket-ball a remporté le plus de titres NBA en tant que joueur et entraîneur ?; Bill Russell.
+Quel pays a remporté le plus de médailles d'or aux Jeux olympiques de Tokyo 2020 ?; États-Unis.
+Quelle équipe de football a remporté le plus de championnats de la Bundesliga ?; Bayern Munich.
+Qui a détenu le record du monde du lancer du poids masculin avant qu'il ne soit battu par Randy Barnes ?; Randy Barnes.
+Quel joueur de tennis a remporté le plus de titres en simple en une seule saison ?; John McEnroe.
+Quel pays a remporté le plus de médailles d'or aux Jeux olympiques de Pékin 2008 ?; Chine.
+Qui est le seul joueur à avoir remporté le prix FIFA du meilleur joueur du monde avec deux clubs différents ?; Cristiano Ronaldo.
+Quelle équipe de baseball a remporté le plus de titres de la Ligue majeure de baseball (MLB) dans les années 2010 ?; San Francisco Giants.
+Qui est le joueur le plus âgé à avoir remporté le tournoi de tennis de Roland-Garros en simple masculin ?; Andrés Gimeno.
+Quelle équipe de football a remporté le plus de Coupes du Monde masculines ?; Brésil.
+Qui détient le record du monde du 400 mètres masculin ?; Wayde van Niekerk.
+Quel joueur de hockey sur glace a le plus de passes décisives en carrière dans la LNH ?; Wayne Gretzky.
+Quelle équipe de rugby a remporté le plus de tournois des Cinq Nations ?; Pays de Galles.
+Qui a remporté le plus de titres de championnat du monde de rallye ?; Sébastien Loeb.
+Quel pays a remporté le plus de titres de la Coupe du Monde de rugby ?; Nouvelle-Zélande.
+Quel golfeur a remporté le plus de tournois majeurs en carrière ?; Jack Nicklaus.
+Qui est le joueur de football le plus cher de tous les temps en termes de transfert ?; Paul Pogba.
+Quelle équipe de basketball de la NBA a remporté le plus de championnats dans les années 1980 ?; Los Angeles Lakers.
+Qui est le seul athlète à avoir remporté des médailles d'or aux Jeux olympiques dans deux sports différents ?; Jim Thorpe.
+Quelle équipe de football américain a remporté le plus de championnats de la NCAA ?; Alabama Crimson Tide.
+Qui est le seul boxeur à avoir remporté des titres mondiaux dans cinq catégories de poids différentes ?; Sugar Ray Leonard.
+Quelle est la durée réglementaire d'un match de rugby à XV ?; 80 minutes.
+Qui détient le record du monde du saut à la perche féminin ?; Yelena Isinbayeva.
+Quelle équipe a remporté le plus de championnats de la NFL dans les années 1970 ?; Pittsburgh Steelers.
+Qui a remporté le plus de titres de la Coupe du Monde de cricket féminin ?; Australie.
+Quel golfeur a remporté le plus de tournois du Grand Chelem dans les années 2000 ?; Tiger Woods.
+Qui est le joueur de football le plus cher de tous les temps en termes de transfert ?; Philippe Coutinho.
+Quelle équipe de basketball universitaire a remporté le plus de championnats de la NCAA dans les années 2000 ?; Duke Blue Devils.
+Qui est le seul athlète à avoir remporté des médailles d'or aux Jeux olympiques dans trois éditions différentes du 100 mètres masculin ?; Usain Bolt.
+Quelle équipe de football américain a remporté le plus de championnats de la conférence AFC ?; New England Patriots.
+Qui est le seul boxeur à avoir remporté des médailles d'or aux Jeux olympiques dans quatre catégories de poids différentes ?; Pernell Whitaker.
+Quelle est la durée réglementaire d'un match de tennis en simple masculin ?; Best of 5 sets.
+Qui détient le record du monde du saut en longueur féminin ?; Galina Chistyakova.
+Quelle équipe a remporté le plus de championnats de la NBA dans les années 2000 ?; Los Angeles Lakers.
+Qui a remporté le plus de titres du Grand Chelem en simple féminin ?; Margaret Court.
+Quel joueur de tennis a remporté le plus de titres en simple sur gazon ?; Roger Federer.
+Quelle équipe a remporté le plus de titres de la Ligue des champions de l'UEFA dans les années 2010 ?; Real Madrid.
+Qui est le joueur le plus âgé à avoir remporté le tournoi de tennis de l'US Open en simple féminin ?; Molla Mallory.
+Quelle équipe a remporté le plus de titres de la Coupe Grey dans la CFL (Ligue canadienne de football) dans les années 2010 ?; Calgary Stampeders.
+Qui a détenu le record du monde du 400 mètres féminin avant qu'il ne soit battu par Marita Koch ?; Marita Koch.
+Quel joueur de basket-ball a remporté le plus de titres de MVP des finales de la NBA ?; Michael Jordan.
+Quel pays a remporté le plus de médailles d'or aux Jeux olympiques d'hiver de PyeongChang 2018 ?; Norvège.

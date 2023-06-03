@@ -21,9 +21,10 @@ paths = []
 for fichier in os.listdir(chemin):
     paths.append(fichier)
 
-# choisi = "Genius_22.txt"
+
 choisi = choice(paths)  # if you  want you can directly put here the name of
 # file that you want to use
+choisi = "CINEMA.txt"
 
 path = "Base de données\\" + choisi
 
